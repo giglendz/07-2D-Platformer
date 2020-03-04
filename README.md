@@ -1,2 +1,2 @@
 # Project-Template-Godot
-A default Godot project template for MSCH-C220
+This is a platformer game I created for an assignment for my C220 class at Indiana University.
