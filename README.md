@@ -1,2 +1,2 @@
-# 07-2D-Platformer
-This is a platformer game I created for my C220 class at Indiana University
+# Project-Template-Godot
+A default Godot project template for MSCH-C220
